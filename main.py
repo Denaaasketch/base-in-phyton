@@ -1,0 +1,2 @@
+HelloWorld('print')
+input(output)
